@@ -1,6 +1,7 @@
 # Projeto Personagens de Star Wars
 
 Este projeto permite visualizar informações sobre personagens do universo de Star Wars, obtidas através de uma API pública. O objetivo é mostrar como integrar dados externos em uma aplicação web simples utilizando **HTML**, **CSS** e **JavaScript**.
+- [Acessar projeto online](https://star-wars-characters-sepia.vercel.app/).
 
 ## Tecnologias Utilizadas
 
